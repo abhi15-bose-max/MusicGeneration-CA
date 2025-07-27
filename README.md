@@ -36,5 +36,5 @@ Cellular automata are deterministic, yet they can mimic randomness and structure
 
 ---
 
-## 📁 Project Structure
+
 
